@@ -34,6 +34,8 @@ Este proyecto es un sistema integral de gestión de inventario desarrollado con 
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla ES6 / Fetch API)
 
 ---
+imagen
+<img width="1292" height="726" alt="image" src="https://github.com/user-attachments/assets/8ccb9e4f-5bbd-4f7d-8dd4-f4b4656bd0e7" />
 
 ## 📂 Estructura del Proyecto
 
@@ -44,3 +46,5 @@ Este proyecto es un sistema integral de gestión de inventario desarrollado con 
 ├── tienda.db          # Base de datos SQLite (se genera automáticamente)
 └── templates/
     └── index.html     # Interfaz de usuario (HTML, CSS y JS embebido)
+
+
